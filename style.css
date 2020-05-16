@@ -1,0 +1,33 @@
+
+
+        h1{
+        background-image:url("bg.png.jpg")
+       }
+       * {border:solid
+
+       }
+        .header{
+           background-image:url("bg.png.jpg");
+           display:flex;
+           justify-content : space-between;     
+        }
+        .description{
+                background-color: beige;
+                display:flex;
+                justify-content : space-evenly; 
+                flex-grow: inherit; 
+             }
+             .grid{
+                background-color:pink;
+                display:flex;
+                justify-content : space-evenly;
+                flex-flow: wrap-reverse;     
+             }
+             .act{
+                background-color:yellow;
+                display:flex;
+                justify-content : space-between;     
+             }
+          
+     
+    
